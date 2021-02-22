@@ -764,6 +764,12 @@ a:hover {
   margin-bottom: 1rem;
 }
 
+.counter-ico h4{
+  color: #fff;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
 .counter-ico .ico-circle {
   height: 60px;
   width: 60px;
